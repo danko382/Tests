@@ -1,0 +1,4 @@
+﻿  ChooseTest.cpp
+D:\tests\Tests\Tests\ChooseTest.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  ChooseTest.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Tests.vcxproj -> D:\tests\Tests\x64\Debug\Tests.exe

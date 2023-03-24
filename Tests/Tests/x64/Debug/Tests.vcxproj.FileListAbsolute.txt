@@ -1,0 +1,5 @@
+D:\tests\Tests\Tests\x64\Debug\Tests.vcxproj.AssemblyReference.cache
+D:\tests\Tests\Tests\x64\Debug\Tests.vcxproj.SuggestedBindingRedirects.cache
+D:\tests\Tests\Tests\x64\Debug\Tests.ChooseTest.resources
+D:\tests\Tests\Tests\x64\Debug\Tests.DiscreteMathematics.resources
+D:\tests\Tests\Tests\x64\Debug\Tests.vcxproj.GenerateResource.cache
